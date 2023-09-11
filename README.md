@@ -1,6 +1,5 @@
 Hi, I’m @petermriya
-I’m interested in learning from established developers
-I’m currently learning how to code
+Enthusiast in Python & SQL
 I’m looking to collaborate on building collaborative projects
 How to reach me (petermuriya@gmail.com)
 
