@@ -1,5 +1,5 @@
-Hi, I’m @petermriya
-Enthusiast in Python & SQL
+Hi, I’m Peter
+A data engineer proficient is Python and SQL
 I’m looking to collaborate on building collaborative projects
 How to reach me (petermuriya@gmail.com)
 
